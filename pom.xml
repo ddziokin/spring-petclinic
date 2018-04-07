@@ -13,7 +13,7 @@
     <version>2.0.0.RELEASE</version>
   </parent>
   <name>petclinic</name>
-
+<!-- Some comment -->
   <properties>
 
     <!-- Generic properties -->
