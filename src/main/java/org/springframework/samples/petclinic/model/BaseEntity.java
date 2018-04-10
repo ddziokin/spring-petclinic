@@ -39,6 +39,7 @@ public class BaseEntity implements Serializable {
         return id;
     }
 
+    // temp
     public void setId(Integer id) {
         this.id = id;
     }
